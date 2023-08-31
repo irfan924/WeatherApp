@@ -33,7 +33,7 @@ const getAPIData = async()=>{
 useEffect(()=>{
     getAPIData();
 },[])
-
+//Dev branch completed
     return (
         <View style={styles.mainView}>
 
