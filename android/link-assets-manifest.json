@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/blackOps.ttf",
+      "sha1": "66aa80951fc0fb743a22760df8197c85210fab66"
+    },
+    {
+      "path": "assets/fonts/josef.ttf",
+      "sha1": "ad2439d6f0dfc795c4dbefb342383f9f02810427"
+    },
+    {
+      "path": "assets/fonts/robotoM.ttf",
+      "sha1": "25fc4386049ab15b18260b6786ee67181be32bd2"
+    },
+    {
+      "path": "assets/fonts/robotoR.ttf",
+      "sha1": "9d7fe27882872f2f69d0f38ffd91e6a87f89f2a5"
+    },
+    {
+      "path": "assets/fonts/yanone.ttf",
+      "sha1": "c78e5337078ba170ef9a6ef802f840c2d4d5bb85"
+    }
+  ]
+}
